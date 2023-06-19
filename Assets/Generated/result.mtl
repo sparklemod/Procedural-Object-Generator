@@ -1,0 +1,25 @@
+newmtl WaterMaterial (Instance)
+Kd 0,1839623 0,7296321 1
+Tr 0,5372549
+d 0,4627451
+Ks 0 0 0
+illum 2
+
+newmtl LandscapeMaterial (Instance)
+Kd 1 1 1
+Ks 0 0 0
+map_Kd C:\Users\SweetPerson\Desktop\diplom1\Assets\Generated\Terrain.png
+illum 2
+
+newmtl BuildingMaterial (Instance)
+Kd 1 1 1
+Ks 0 0 0
+map_Kd C:\Users\SweetPerson\Desktop\diplom1\Assets\Generated\buildingTexture.png
+illum 2
+
+newmtl GrassMaterial (Instance)
+Kd 1 1 1
+Ks 0 0 0
+map_Kd C:\Users\SweetPerson\Desktop\diplom1\Assets\Generated\grass.png
+illum 2
+
